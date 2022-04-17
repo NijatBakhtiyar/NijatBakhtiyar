@@ -15,8 +15,8 @@
 - 💬 Ask me about **JS, React**
 
 - 📫 How to reach me **nijatbakhtiyar@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/user/OneDrive/Desktop/Nijat%20Bakhtiyarli.pdf](file:///C:/Users/user/OneDrive/Desktop/Nijat%20Bakhtiyarli.pdf)
+<!-- 
+- 📄 Know about my experiences [file:///C:/Users/user/OneDrive/Desktop/Nijat%20Bakhtiyarli.pdf](file:///C:/Users/user/OneDrive/Desktop/Nijat%20Bakhtiyarli.pdf) -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
