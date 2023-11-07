@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nijat Bakhtiyar</h1>
-<h3 align="center">I am Frontend Developer with experience HTML, CSS, JS for building websites and web applications. Primarily, I focus on writing clean, elegant, and efficient code. I have a great passion for JS Algorithms. I enjoy to work with React.</h3>
+<h3 align="center">I am Frontend Developer with experience HTML, CSS, JS, React.js, Next.js for building websites and web applications. Primarily, I focus on writing clean, elegant, and efficient code. I have a great passion for JS Algorithms. I enjoy to work with React.</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nijatbakhtiyar&label=Profile%20views&color=0e75b6&style=flat" alt="nijatbakhtiyar" /> </p> -->
 
